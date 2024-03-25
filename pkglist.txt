@@ -1,0 +1,14 @@
+i3
+polybar
+picom
+spotify
+code
+godot
+ksnip
+alacritty
+rofi
+feh
+lightdm
+lightdm-slick-greeter
+thunar
+xdg-utils
